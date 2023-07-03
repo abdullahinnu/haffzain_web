@@ -60,6 +60,12 @@ p {
 
 .heading_container h2 {
   font-weight: bold;
+  color:#ffffff;
+  text-shadow: 2px 2px 5px rgb(0, 0, 0);
+}
+.heading_container p {
+  color:#ffffff;
+  text-shadow: 2px 2px 5px rgb(0, 0, 0);
 }
 
 /*header section*/
@@ -275,7 +281,7 @@ a:focus {
 }
 
 .navbar-brand img {
-  width: 60px;
+  width: 160px;
 }
 
 .custom_nav-container {
@@ -371,7 +377,7 @@ a:focus {
 }
 
 .slider_section .img-box {
-  background-image: url(../images/slider-bg.png);
+  background-image: url(../images/slider-bg.jpg);
   background-position: bottom;
   background-size: 100%;
   padding-bottom: 375px;

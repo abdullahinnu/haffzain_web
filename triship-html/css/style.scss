@@ -325,7 +325,7 @@ a:focus {
   padding-top: 45px;
   overflow-x: hidden;
 
-  .row {}
+  // .row {}
 
   #carouselExampleIndicators {
     flex: 1;
@@ -357,10 +357,11 @@ a:focus {
   }
 
   .img-box {
-    background-image: url(../images/slider-bg.png);
+    background-image: url(../images/slider-bg.jpg);
     background-position: bottom;
     background-size: 100%;
     padding-bottom: 375px;
+    // padding-top: 300px;
     position: relative;
     background-repeat: no-repeat;
 
@@ -825,7 +826,7 @@ a:focus {
     text-transform: none;
   }
 
-  .info_container {}
+  // .info_container {}
 
   h5 {
     margin-bottom: 12px;
